@@ -17,6 +17,7 @@ Esse é o ***main*** do nosso projeto, sendo nele que realizamos as operações 
 
 ![Untitled.png](README/Untitled.png)
 
+
 ## Game
 
 Aqui no ***game***, cada bit recebido dos jogadores na classe anterior é armazenado individualmente em J0 e J1.Posteriormente, esses bits são encaminhados ao multiplexador (Mux), a fim de determinar qual das duas saídas será selecionada para a análise da magnitude (Mag).
