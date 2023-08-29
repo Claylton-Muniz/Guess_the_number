@@ -40,4 +40,6 @@ Conforme mencionado anteriormente, a porta lógica "XOR" é projetada de forma a
 
 Para efetuar essa comparação, empregamos um esquema composto por uma entrada convencional e uma entrada negada. Através desse procedimento, asseguramos que o valor sendo comparado seja maior que o valor de referência. Exemplificando, consideremos a situação em que 1 é maior que 0. Nesse caso, o bit "1" passa sem modificação pela operação "AND", enquanto o bit "0" é submetido à entrada negada, garantindo que o resultado da operação "AND" seja igual a 1.
 
+Por outro lado, a determinação da condição de menor valor envolve uma abordagem distinta. Nesse contexto, bastava verificar a não ocorrência das duas condições previamente mencionadas.
+
 ![Untitled 4.png](README/mag.png)
