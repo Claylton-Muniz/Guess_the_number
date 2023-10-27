@@ -1,5 +1,3 @@
-# README
-
 # Guess the number extreme
 
 Participantes:
